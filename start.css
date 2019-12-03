@@ -1,0 +1,73 @@
+/*selector {
+property: value ;
+}*/
+
+*{
+	text-align: right;
+}
+body{
+	background-image: url(splash2.jpg);
+	background-size: cover;
+}
+
+p,h2{
+
+	color: #801815;
+	text-align: center;
+	border: 5px solid rgba(255, 172, 170,0.5); 
+	cursor: pointer;
+}
+h2{
+	border: 5px solid rgba(100,50,120,0.5)
+}
+img {
+	float: right;
+}
+footer {
+	clear: both;
+	text-align: center;
+}
+
+p {
+
+	line-height: 50px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 150;
+	font-family: 'Open Sans', sans-serif;
+
+
+}
+
+span{
+	font-size: 2em;
+}
+li{
+	list-style: none;
+    display: inline-block;
+}
+
+.webtext{
+	border: 5px solid green;
+}
+
+
+.webtext2{
+	border: 5px solid black;
+}
+
+
+.webtext3{
+	border: 5px solid maroon;
+}
+.active{
+	color: red;
+}
+
+#div1{
+	background: rgba(0,0,255,0.1);
+}
+
+#div2{
+background: rgba(255,0,0,0.1);
+}

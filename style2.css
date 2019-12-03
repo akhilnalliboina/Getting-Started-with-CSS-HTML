@@ -1,0 +1,28 @@
+h2{
+	color: red;
+}
+
+
+*{
+	text-align: right;
+}
+
+.boxmodel{
+
+	border: 5px solid red;
+	display: inline-block;
+	padding: 20px 20px 20px 20px;
+	margin: 20px 20px 20px 20px;
+	width: 33px;
+	height: 55px;
+}
+
+body{
+	background-image: url(splash2.jpg);
+	background-size: cover;
+}
+
+li{
+	list-style: none;
+    display: inline-block;
+}
